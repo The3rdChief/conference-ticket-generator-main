@@ -1,0 +1,4 @@
+#avatar-uploader:has(input[type="file"]:focus) {
+  outline: 2px solid hsl(245, 15%, 58%);
+  outline-offset: 4px;
+}
